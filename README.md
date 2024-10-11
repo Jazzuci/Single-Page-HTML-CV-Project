@@ -10,3 +10,5 @@ This project is a single-page CV built using only HTML, following semantic struc
 - SEO Optimization: Includes meta tags like description, keywords, and author for better search engine visibility.
 - Open Graph (OG) Tags: Helps with social media sharing by providing information like the title, description, and URL.
 - Adds a small icon that appears in the browser tab, improving the user experience.
+  
+https://roadmap.sh/projects/single-page-cv
